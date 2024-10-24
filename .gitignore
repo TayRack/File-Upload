@@ -3,6 +3,7 @@
 !public/
 !views/
 !routes/
+!images/
 !app.js
 !package-lock.json
 !package.json
